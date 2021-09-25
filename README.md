@@ -1,1 +1,1 @@
-# CS306-Data-Analysis-and-Visualization
+# Data-Analysis-and-Visualization
